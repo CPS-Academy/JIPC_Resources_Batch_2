@@ -11,4 +11,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CPS-Academy/JIPC_Resources_Batch_2&type=Date)](https://www.star-history.com/#CPS-Academy/JIPC_Resources_Batch_1&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CPS-Academy/JIPC_Resources_Batch_2&type=date&legend=top-left)](https://www.star-history.com/#CPS-Academy/JIPC_Resources_Batch_2&type=date&legend=top-left)
