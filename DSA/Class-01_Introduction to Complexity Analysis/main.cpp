@@ -89,7 +89,7 @@ int main() {
     cout << "Total: " << total << endl;
 
 
-    // O(n log n) time complexity
+    // O(log n) time complexity
     vector<int> arr4 = {5, 2, 9, 1, 5, 6};
     sort(arr4.begin(), arr4.end());
 
